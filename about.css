@@ -13,7 +13,7 @@ body
 }
 .container>header
 {
-    background-image: url('Images/sv.jpg');
+    background-image: url('sv.jpg');
     background-size:100% 100%;
     height:0px;
     padding-bottom:25%;
